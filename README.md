@@ -1,44 +1,42 @@
 # Retail-Business-Performance-Profitability-Analysis
-Analysis
-📌 Project Overview
+##📌 Project Overview
 
 This project analyzes retail sales data to understand business performance and profitability.
 The main goal is to identify:
 
-Best performing categories
+* Best performing categories
 
-Most profitable products
+* Most profitable products
 
-Monthly sales trends
+* Monthly sales trends
 
-Region-wise performance
+* Region-wise performance
 
-This project was created as part of my Data Analyst Internship.
+* This project was created as part of my Data Analyst Internship.
 
-🎯 Objectives
+## 🎯 Objectives
 
-Analyze total sales and profit by category
+* Analyze total sales and profit by category
 
-Identify top profitable products
+* Identify top profitable products
 
-Study monthly sales trends
+* Study monthly sales trends
 
-Compare region-wise sales performance
+* Compare region-wise sales performance
 
-Provide simple business insights
+* Provide simple business insights
 
-🛠 Tools Used
+## 🛠 Tools Used
 
-Excel – Data cleaning & charts
+* Excel – Data cleaning & charts
 
-SQL – Data analysis using queries
+* SQL – Data analysis using queries
 
-📂 Dataset
+## 📂 Dataset
 
-File used:
-retail_sales.csv
+* File used: retail_sales.csv
 
-Columns:
+* Columns:
 
 Order_ID
 
@@ -58,72 +56,70 @@ Profit
 
 Region
 
-⚙ Project Steps
+## ⚙ Project Steps
 1. Data Cleaning (Excel)
 
-Removed blank values
+* Removed blank values
 
-Checked data types
+* Checked data types
 
-Verified sales and profit columns
+* Verified sales and profit columns
 
 2. Excel Analysis
 
 Created:
 
-Total sales by category
+* Total sales by category
 
-Total profit by category
+* Total profit by category
 
-Monthly sales trend
+* Monthly sales trend
 
-Top 5 profitable products
+* Top 5 profitable products
 
 Charts:
 
-Bar chart – Sales by category
+* Bar chart – Sales by category
 
-Bar chart – Profit by category
+* Bar chart – Profit by category
 
-Line chart – Monthly sales
+* Line chart – Monthly sales
 
-Column chart – Top products
+* Column chart – Top products
 
 3. SQL Analysis
 
-Queries written to find:
+* Queries written to find:
 
-Category-wise sales
+* Category-wise sales
 
-Category-wise profit
+* Category-wise profit
 
-Top 5 products by profit
+* Top 5 products by profit
 
-Monthly sales trend
+* Monthly sales trend
 
-Region-wise sales
+* Region-wise sales
 
-File:
-sql_queries.sql
+* File: sql_queries.sql
 
-Results saved in:
-sql_query_results.xlsx
+* Results saved in: sql_query_results.xlsx
 
-📊 Key Insights
+## 📊 Key Insights
 
-Some categories generate higher profit than others
+* Some categories generate higher profit than others
 
-Few products contribute major share of profit
+* Few products contribute major share of profit
 
-Monthly sales show clear trends
+* Monthly sales show clear trends
 
-Certain regions perform better in sales
+* Certain regions perform better in sales
 
-📁 Project Files
+## 📁 Project Files
 
-Project_Report_Chandra_Prakash_Choudhary.pdf → Final report
+* Project_Report_Chandra_Prakash_Choudhary.pdf → Final report
 
-retail_sales.csv → Dataset
+* retail_sales.csv → Dataset
 
 sql_queries.sql → SQL queries
 
