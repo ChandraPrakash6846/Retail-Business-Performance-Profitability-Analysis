@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Product_Name,Category,Sub_Category,Quantity,Sales,Profit,Region
+ORD1163,2024-01-01,Shirt,Clothing,Women Fashion,8,13232,4852.42,West
+ORD1180,2024-01-01,Tea,Groceries,Beverages,3,1824,217.43,East
+ORD1032,2024-01-02,Coffee,Groceries,Staples,7,4830,-333.31,West
+ORD1150,2024-01-03,Headphones,Electronics,Accessories,5,176300,-34412.24,East
+ORD1184,2024-01-05,T-Shirt,Clothing,Men Fashion,7,13916,4550.02,South
+ORD1003,2024-01-07,Tablet,Electronics,Mobiles,10,194320,29287.73,North
+ORD1021,2024-01-07,Sugar,Groceries,Staples,2,1498,138.35,North
+ORD1015,2024-01-08,Jeans,Clothing,Footwear,6,8862,2568.58,East
+ORD1103,2024-01-09,Sugar,Groceries,Staples,8,3152,371.18,West
+ORD1014,2024-01-09,Rice,Groceries,Staples,10,7080,-382.14,East
+ORD1064,2024-01-12,Tablet,Electronics,Mobiles,2,41634,9243.06,South
+ORD1049,2024-01-12,Shoes,Clothing,Footwear,3,7242,2809.4,North
+ORD1134,2024-01-13,Coffee,Groceries,Staples,10,7730,1027.67,South
+ORD1101,2024-01-15,Table,Furniture,Home Furniture,10,141700,45185.0,North
+ORD1189,2024-01-15,Jacket,Clothing,Footwear,8,11024,4403.59,West
+ORD1107,2024-01-17,Sugar,Groceries,Staples,10,9210,784.99,East
+ORD1142,2024-01-17,Cabinet,Furniture,Office Furniture,9,109386,35550.79,North
+ORD1195,2024-01-18,Bookshelf,Furniture,Office Furniture,8,85056,25688.3,South
+ORD1063,2024-01-18,Jeans,Clothing,Women Fashion,4,7812,2887.9,East
+ORD1085,2024-01-19,Rice,Groceries,Beverages,5,2155,132.73,North
+ORD1068,2024-01-21,Tablet,Electronics,Mobiles,4,76720,17174.57,East
+ORD1192,2024-01-21,Bookshelf,Furniture,Office Furniture,2,12584,4011.9,West
+ORD1054,2024-01-21,Desk,Furniture,Home Furniture,2,24480,8376.16,East
+ORD1193,2024-01-22,Headphones,Electronics,Computers,8,329216,53654.68,North
+ORD1011,2024-01-23,Shoes,Clothing,Footwear,9,22437,6130.23,North
+ORD1042,2024-01-24,Oil,Groceries,Beverages,9,6048,662.53,West
+ORD1133,2024-01-24,Office Chair,Furniture,Home Furniture,9,81198,17638.87,South
+ORD1016,2024-01-24,Sugar,Groceries,Staples,1,569,63.79,North
+ORD1044,2024-01-25,Shirt,Clothing,Women Fashion,4,6496,2052.61,South
+ORD1070,2024-01-26,T-Shirt,Clothing,Men Fashion,9,15264,5412.81,West
+ORD1008,2024-01-27,Cabinet,Furniture,Office Furniture,5,52895,12561.03,West
+ORD1041,2024-01-27,Smart Watch,Electronics,Mobiles,3,116832,22952.23,North
+ORD1168,2024-01-28,Desk,Furniture,Office Furniture,5,53700,16346.86,West
+ORD1185,2024-01-29,Mobile Phone,Electronics,Wearables,1,13272,2080.03,East
+ORD1158,2024-01-29,Smart Watch,Electronics,Computers,1,28763,5202.84,East
+ORD1002,2024-01-29,Sugar,Groceries,Beverages,9,5058,314.1,East
+ORD1135,2024-01-29,Jacket,Clothing,Women Fashion,6,3150,873.21,West
+ORD1152,2024-01-30,Coffee,Groceries,Staples,6,4314,420.89,North
+ORD1052,2024-02-01,Shoes,Clothing,Women Fashion,2,4852,1227.11,East
+ORD1198,2024-02-02,Bookshelf,Furniture,Office Furniture,9,121509,27375.42,South
+ORD1197,2024-02-02,Bookshelf,Furniture,Home Furniture,2,14210,3260.42,East
+ORD1119,2024-02-05,Mobile Phone,Electronics,Accessories,1,26856,4682.53,South
+ORD1007,2024-02-05,Laptop,Electronics,Wearables,6,72966,12759.25,West
+ORD1130,2024-02-05,Laptop,Electronics,Accessories,2,66606,10634.08,South
+ORD1117,2024-02-06,Sugar,Groceries,Staples,6,1932,182.26,East
+ORD1175,2024-02-09,Jeans,Clothing,Footwear,2,5766,2077.36,North
+ORD1136,2024-02-09,Mobile Phone,Electronics,Accessories,2,79530,13640.45,East
+ORD1038,2024-02-09,Headphones,Electronics,Computers,2,40784,8861.53,South
+ORD1033,2024-02-10,Tablet,Electronics,Mobiles,6,199590,31335.11,East
+ORD1138,2024-02-10,Table,Furniture,Office Furniture,2,14916,3974.62,West
+ORD1161,2024-02-10,Rice,Groceries,Beverages,6,4752,579.55,East
+ORD1091,2024-02-11,Office Chair,Furniture,Home Furniture,7,59976,20400.07,North
+ORD1177,2024-02-11,Office Chair,Furniture,Home Furniture,1,7807,1797.47,North
+ORD1076,2024-02-11,Office Chair,Furniture,Home Furniture,8,114352,33055.92,South
+ORD1088,2024-02-13,Laptop,Electronics,Mobiles,3,76095,15605.86,North
+ORD1166,2024-02-15,Mobile Phone,Electronics,Wearables,6,40482,7751.89,East
+ORD1061,2024-02-19,Coffee,Groceries,Beverages,6,5832,434.77,East
+ORD1023,2024-02-20,Laptop,Electronics,Accessories,3,122265,18780.25,South
+ORD1174,2024-02-20,Tea,Groceries,Staples,7,3374,-254.28,North
+ORD1079,2024-02-23,Shirt,Clothing,Footwear,10,16820,5312.98,East
+ORD1111,2024-02-24,Rice,Groceries,Staples,4,3920,461.12,West
+ORD1108,2024-02-24,Office Chair,Furniture,Office Furniture,5,51110,10477.79,South
+ORD1039,2024-02-25,Office Chair,Furniture,Office Furniture,4,43136,12582.39,West
+ORD1017,2024-02-25,Tablet,Electronics,Mobiles,9,201420,32880.94,North
+ORD1028,2024-02-26,Oil,Groceries,Staples,8,3664,295.02,South
+ORD1129,2024-02-26,Headphones,Electronics,Wearables,6,291528,51159.95,West
+ORD1098,2024-02-26,Sugar,Groceries,Beverages,9,1224,136.78,East
+ORD1006,2024-02-27,Office Chair,Furniture,Office Furniture,7,61628,16241.25,North
+ORD1066,2024-02-28,Shirt,Clothing,Women Fashion,8,22136,7296.87,East
+ORD1102,2024-02-28,Coffee,Groceries,Staples,8,5576,358.6,East
+ORD1069,2024-02-29,Mobile Phone,Electronics,Computers,4,114600,-19246.4,South
+ORD1018,2024-02-29,Bookshelf,Furniture,Home Furniture,3,30537,9926.41,North
+ORD1190,2024-03-02,Office Chair,Furniture,Office Furniture,2,20812,4701.4,North
+ORD1188,2024-03-02,Office Chair,Furniture,Office Furniture,3,33528,9309.44,North
+ORD1090,2024-03-03,Shoes,Clothing,Women Fashion,8,11984,3817.12,South
+ORD1005,2024-03-03,Table,Furniture,Office Furniture,10,124400,33700.04,West
+ORD1120,2024-03-04,Tablet,Electronics,Mobiles,10,191520,44299.59,South
+ORD1148,2024-03-05,Office Chair,Furniture,Office Furniture,8,84808,26559.06,West
+ORD1048,2024-03-08,Tea,Groceries,Staples,8,2592,200.34,West
+ORD1164,2024-03-08,Desk,Furniture,Office Furniture,5,19270,5707.33,North
+ORD1123,2024-03-08,Cabinet,Furniture,Office Furniture,2,21604,5773.48,North
+ORD1118,2024-03-08,Headphones,Electronics,Computers,1,31092,5521.57,West
+ORD1106,2024-03-09,Smart Watch,Electronics,Computers,1,42088,9954.1,North
+ORD1155,2024-03-09,Headphones,Electronics,Accessories,6,67158,13820.87,East
+ORD1081,2024-03-09,T-Shirt,Clothing,Men Fashion,4,11424,-3862.09,East
+ORD1094,2024-03-10,Table,Furniture,Home Furniture,4,38920,8038.81,West
+ORD1004,2024-03-11,Office Chair,Furniture,Office Furniture,6,24960,6917.0,West
+ORD1037,2024-03-12,Tea,Groceries,Beverages,4,2492,242.52,South
+ORD1031,2024-03-12,Table,Furniture,Home Furniture,1,4776,1382.58,East
+ORD1072,2024-03-12,Shoes,Clothing,Men Fashion,2,4282,1386.35,North
+ORD1067,2024-03-15,Shoes,Clothing,Women Fashion,5,7645,2175.62,East
+ORD1056,2024-03-16,Tablet,Electronics,Accessories,5,213675,46524.47,West
+ORD1159,2024-03-16,Oil,Groceries,Staples,3,774,44.67,North
+ORD1170,2024-03-17,Headphones,Electronics,Mobiles,5,64925,10048.76,West
+ORD1187,2024-03-19,Shoes,Clothing,Men Fashion,10,10630,3501.72,East
+ORD1110,2024-03-21,Jeans,Clothing,Women Fashion,8,13664,4946.15,North
+ORD1104,2024-03-21,Shirt,Clothing,Women Fashion,7,10668,3398.03,West
+ORD1182,2024-03-23,T-Shirt,Clothing,Men Fashion,6,10260,3036.7,West
+ORD1100,2024-03-24,T-Shirt,Clothing,Men Fashion,6,4374,1285.98,South
+ORD1040,2024-03-27,Coffee,Groceries,Staples,7,4242,381.63,North
+ORD1157,2024-03-28,Table,Furniture,Office Furniture,5,60785,15591.47,South
+ORD1036,2024-03-28,Shoes,Clothing,Footwear,1,1744,511.06,East
+ORD1046,2024-03-29,Office Chair,Furniture,Home Furniture,7,58947,16587.19,South
+ORD1078,2024-03-31,Rice,Groceries,Staples,3,1116,-148.05,South
+ORD1045,2024-04-01,Jacket,Clothing,Women Fashion,9,7470,2022.55,South
+ORD1186,2024-04-02,Shoes,Clothing,Footwear,1,2978,813.04,East
+ORD1128,2024-04-02,Cabinet,Furniture,Home Furniture,4,39116,9811.85,West
+ORD1059,2024-04-02,Rice,Groceries,Beverages,6,4500,626.21,South
+ORD1075,2024-04-03,Mobile Phone,Electronics,Mobiles,5,241405,38170.66,North
+ORD1077,2024-04-04,Jacket,Clothing,Footwear,8,6328,2234.47,South
+ORD1176,2024-04-05,Shirt,Clothing,Women Fashion,3,7209,2862.86,South
+ORD1053,2024-04-06,Office Chair,Furniture,Office Furniture,1,7051,-1621.05,South
+ORD1043,2024-04-07,Coffee,Groceries,Beverages,3,2583,351.67,South
+ORD1093,2024-04-07,Jacket,Clothing,Footwear,9,18405,5858.34,South
+ORD1144,2024-04-07,Tea,Groceries,Beverages,2,1028,53.54,West
+ORD1071,2024-04-07,Laptop,Electronics,Computers,8,290984,56464.54,North
+ORD1143,2024-04-08,Rice,Groceries,Beverages,1,570,81.01,West
+ORD1114,2024-04-11,Office Chair,Furniture,Home Furniture,5,68185,17812.95,North
+ORD1105,2024-04-12,Rice,Groceries,Staples,7,4795,411.87,East
+ORD1127,2024-04-12,Coffee,Groceries,Beverages,8,4936,-545.64,North
+ORD1027,2024-04-17,Oil,Groceries,Beverages,3,2718,326.51,North
+ORD1035,2024-04-18,Shirt,Clothing,Men Fashion,4,8888,3108.48,South
+ORD1013,2024-04-18,Tablet,Electronics,Accessories,3,28470,5964.56,South
+ORD1140,2024-04-18,T-Shirt,Clothing,Men Fashion,7,20678,5339.42,South
+ORD1125,2024-04-19,Rice,Groceries,Staples,8,7736,697.49,West
+ORD1160,2024-04-21,Headphones,Electronics,Mobiles,10,296880,49111.46,South
+ORD1029,2024-04-24,Office Chair,Furniture,Office Furniture,7,58646,-14180.04,East
+ORD1073,2024-04-26,Desk,Furniture,Home Furniture,2,14132,3077.49,South
+ORD1162,2024-04-26,Oil,Groceries,Staples,5,4640,595.95,South
+ORD1116,2024-04-27,Shirt,Clothing,Women Fashion,10,11320,4333.43,West
+ORD1050,2024-04-27,Coffee,Groceries,Staples,2,1516,140.78,South
+ORD1092,2024-04-28,Jacket,Clothing,Footwear,10,25050,9513.72,West
+ORD1146,2024-04-29,Sugar,Groceries,Beverages,4,1764,-225.64,North
+ORD1200,2024-05-01,Jeans,Clothing,Footwear,7,4368,1418.31,East
+ORD1194,2024-05-04,Shoes,Clothing,Footwear,8,21224,6613.81,North
+ORD1183,2024-05-05,Cabinet,Furniture,Home Furniture,8,29544,9129.75,West
+ORD1132,2024-05-06,Headphones,Electronics,Computers,6,70734,14697.95,West
+ORD1113,2024-05-07,Sugar,Groceries,Staples,4,2328,122.23,East
+ORD1165,2024-05-08,Headphones,Electronics,Accessories,3,68631,13378.37,West
+ORD1167,2024-05-09,Cabinet,Furniture,Office Furniture,6,40068,8183.01,East
+ORD1019,2024-05-09,T-Shirt,Clothing,Men Fashion,5,4860,1863.6,South
+ORD1172,2024-05-09,Bookshelf,Furniture,Home Furniture,1,13073,3306.45,South
+ORD1131,2024-05-10,Tablet,Electronics,Computers,2,63844,11834.11,West
+ORD1179,2024-05-15,Jacket,Clothing,Men Fashion,6,9714,2609.87,West
+ORD1147,2024-05-15,Bookshelf,Furniture,Home Furniture,3,20613,4440.47,South
+ORD1196,2024-05-16,Cabinet,Furniture,Office Furniture,2,22976,5122.55,East
+ORD1089,2024-05-16,Office Chair,Furniture,Home Furniture,2,27224,8842.94,East
+ORD1051,2024-05-17,Headphones,Electronics,Wearables,6,113226,22132.28,West
+ORD1122,2024-05-17,Office Chair,Furniture,Home Furniture,4,50588,12574.44,North
+ORD1154,2024-05-17,Coffee,Groceries,Staples,6,2886,409.22,East
+ORD1178,2024-05-18,Jacket,Clothing,Footwear,7,19068,-6121.02,South
+ORD1010,2024-05-19,Rice,Groceries,Staples,7,714,106.05,West
+ORD1026,2024-05-19,Desk,Furniture,Office Furniture,3,29265,5961.81,East
+ORD1055,2024-05-21,Jeans,Clothing,Footwear,10,9690,3553.02,East
+ORD1149,2024-05-21,Jacket,Clothing,Men Fashion,8,6232,1996.35,East
+ORD1097,2024-05-22,Smart Watch,Electronics,Computers,6,275070,60314.73,East
+ORD1022,2024-05-23,Jeans,Clothing,Footwear,5,5805,2096.68,West
+ORD1121,2024-05-23,Headphones,Electronics,Mobiles,3,121209,21219.5,North
+ORD1191,2024-05-25,Jacket,Clothing,Footwear,2,5504,1823.62,South
+ORD1109,2024-05-25,Headphones,Electronics,Computers,7,115570,19656.09,East
+ORD1060,2024-05-27,Oil,Groceries,Beverages,10,9270,1315.99,West
+ORD1124,2024-05-29,Coffee,Groceries,Staples,10,1440,176.72,East
+ORD1126,2024-05-29,Rice,Groceries,Staples,6,4332,280.86,East
+ORD1030,2024-05-30,Shirt,Clothing,Women Fashion,9,16704,6529.35,East
+ORD1012,2024-05-31,Headphones,Electronics,Accessories,1,43284,8556.33,South
+ORD1145,2024-06-01,T-Shirt,Clothing,Women Fashion,2,2992,943.53,North
+ORD1141,2024-06-01,Bookshelf,Furniture,Home Furniture,6,29790,5992.54,South
+ORD1181,2024-06-02,Smart Watch,Electronics,Accessories,7,311374,77690.87,East
+ORD1020,2024-06-03,Jacket,Clothing,Footwear,4,7616,2136.59,East
+ORD1047,2024-06-03,Tea,Groceries,Staples,10,4890,477.74,East
+ORD1173,2024-06-04,Tablet,Electronics,Computers,2,78950,16138.03,North
+ORD1086,2024-06-04,Tea,Groceries,Staples,4,2520,217.17,West
+ORD1058,2024-06-07,Headphones,Electronics,Wearables,6,57114,11456.84,West
+ORD1137,2024-06-09,Bookshelf,Furniture,Home Furniture,6,73794,21358.46,South
+ORD1057,2024-06-09,Office Chair,Furniture,Office Furniture,2,28844,9111.02,North
+ORD1169,2024-06-09,Coffee,Groceries,Staples,2,238,17.99,West
+ORD1087,2024-06-11,Mobile Phone,Electronics,Computers,9,122274,29684.13,West
+ORD1074,2024-06-11,Tea,Groceries,Beverages,5,4900,533.38,North
+ORD1001,2024-06-12,Bookshelf,Furniture,Home Furniture,4,47340,14831.14,East
+ORD1095,2024-06-12,Oil,Groceries,Beverages,1,229,22.95,North
+ORD1171,2024-06-12,Laptop,Electronics,Wearables,10,401300,60854.55,South
+ORD1156,2024-06-13,Bookshelf,Furniture,Office Furniture,10,138720,30686.84,West
+ORD1115,2024-06-13,Shoes,Clothing,Men Fashion,2,2922,1119.39,West
+ORD1084,2024-06-14,Shoes,Clothing,Footwear,8,13440,4695.77,North
+ORD1024,2024-06-15,Oil,Groceries,Staples,5,2365,330.86,North
+ORD1112,2024-06-16,T-Shirt,Clothing,Women Fashion,1,1583,523.16,East
+ORD1199,2024-06-17,Table,Furniture,Home Furniture,10,36740,-11895.88,North
+ORD1065,2024-06-18,Tea,Groceries,Beverages,1,195,15.49,South
+ORD1080,2024-06-20,Sugar,Groceries,Beverages,8,1456,159.87,East
+ORD1009,2024-06-22,Laptop,Electronics,Accessories,2,40982,6828.88,South
+ORD1151,2024-06-23,Laptop,Electronics,Wearables,8,344256,70721.07,North
+ORD1153,2024-06-23,Rice,Groceries,Beverages,2,1232,-141.2,West
+ORD1139,2024-06-23,Sugar,Groceries,Staples,9,1944,164.3,West
+ORD1083,2024-06-23,Rice,Groceries,Beverages,6,3108,258.99,South
+ORD1099,2024-06-24,Office Chair,Furniture,Home Furniture,2,26766,8179.25,South
+ORD1096,2024-06-25,Rice,Groceries,Beverages,1,839,54.04,South
+ORD1034,2024-06-27,T-Shirt,Clothing,Footwear,5,12885,3819.02,West
+ORD1025,2024-06-28,Jeans,Clothing,Footwear,4,3684,1116.44,West
+ORD1082,2024-06-28,Mobile Phone,Electronics,Wearables,9,429273,83374.66,West
+ORD1062,2024-06-29,Oil,Groceries,Beverages,10,7240,845.77,West
